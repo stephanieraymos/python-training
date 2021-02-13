@@ -2,5 +2,6 @@
 # string = " is my number"
 # print(str(number) + string)
 
-number = -5
-print(pow(3,2))
+# print(pow(3,2))
+
+print(max(4, 6))
