@@ -29,10 +29,16 @@ Part of standard library; no need to install.
 - sort_values(asending=False)
 - shape
 
-# Visualization libraries:
+#### Visualization libraries:
 
-- matplotlib.pyplot (as plt) DARK MODE: plt.style.use('seaborn-darlgrid)
-- seaborn (as sns)
+- [matplotlib.pyplot](https://matplotlib.org/stable/index.html): Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python
+  import matplotlib as plt _DARK MODE: plt.style.use('seaborn-darlgrid)_
+  `pip install matplotlib`
+
+- [seaborn](https://seaborn.pydata.org/): Seaborn is a Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.
+  import seaborn (as sns)
+
+  `pip install seaborn`
 
 [Visualization exercise link](https://colab.research.google.com/drive/1DgIO_tPtmdgW3I-BOE14qkGTYkQhJazI#scrollTo=iVM7vNBb4DS9)
 
