@@ -3,4 +3,4 @@
 # print(str(number) + string)
 
 number = -5
-print(abs(number))
+print(pow(3,2))
