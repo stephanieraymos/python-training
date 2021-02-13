@@ -4,4 +4,4 @@
 
 # print(pow(3,2))
 
-print(max(4, 6))
+print(min(4, 6))
