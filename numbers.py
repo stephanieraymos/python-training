@@ -4,4 +4,4 @@
 
 # print(pow(3,2))
 
-print(min(4, 6))
+print(round(3.2))
