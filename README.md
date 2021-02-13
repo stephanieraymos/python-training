@@ -9,3 +9,7 @@
 * tail()
 * describe()
 * shape 
+
+# Visualization libraries: 
+* matplotlib.pyplot (as plt) DARK MODE: plt.style.use('seaborn-darlgrid)
+* seaborn (as sns)
