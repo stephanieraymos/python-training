@@ -1,3 +1,3 @@
 number = 5 
-number2 = 10
-print(number + number2)
+string = " is my number"
+print(str(number) + string)
