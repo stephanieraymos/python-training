@@ -46,5 +46,7 @@ Part of standard library; no need to install.
 
 #### TO DO:
 
-- [] Learn Pandas more indepth
-- [] Learn more about visualization libraries
+- [ ] Learn Pandas more indepth
+- [ ] Learn more about visualization libraries
+- [ ] Look into quandl to import data
+- [ ] Master .plot()
