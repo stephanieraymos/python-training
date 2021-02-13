@@ -17,4 +17,4 @@
 * matplotlib.pyplot (as plt) DARK MODE: plt.style.use('seaborn-darlgrid)
 * seaborn (as sns)
 
-[Visualization exersize link](https://colab.research.google.com/drive/1DgIO_tPtmdgW3I-BOE14qkGTYkQhJazI#scrollTo=iVM7vNBb4DS9)
+[Visualization exercise link](https://colab.research.google.com/drive/1DgIO_tPtmdgW3I-BOE14qkGTYkQhJazI#scrollTo=iVM7vNBb4DS9)
