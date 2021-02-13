@@ -1,5 +1,9 @@
 # Python Training
 
+#### [Pip](https://realpython.com/what-is-pip/): A package manager for Python
+
+Pip has been included with the Python installer since versions 3.4 for Python 3 and 2.7.9 for Python 2. To check to see if you have pip installed; run `pip --version` in your terminal.
+
 #### [Jupyter](https://jupyter.org/) and nano : IDEs to check out
 
 #### OS library, Requests library to make web requests
