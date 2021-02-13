@@ -2,19 +2,19 @@
   "data": [
     {
       "id": 1,
-      "title": "title"
+      "title": "Dodge Daytona"
     },
     {
       "id": 2,
-      "title": "title"
+      "title": "Ford Contour"
     },
     {
       "id": 3,
-      "title": "title"
+      "title": "Chrysler 200"
     },
     {
       "id": 4,
-      "title": "title"
+      "title": "Jeep Renegade"
     }
   ]
 }

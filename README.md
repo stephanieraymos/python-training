@@ -18,3 +18,5 @@
 * seaborn (as sns)
 
 [Visualization exercise link](https://colab.research.google.com/drive/1DgIO_tPtmdgW3I-BOE14qkGTYkQhJazI#scrollTo=iVM7vNBb4DS9)
+
+[Validate JSON](https://jsonlint.com/)
