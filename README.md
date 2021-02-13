@@ -9,6 +9,7 @@
 * tail()
 * describe()
 * plot(kind = 'bar') BAR CHART
+* sort_values(asending=False)
 * shape 
 
 # Visualization libraries: 
