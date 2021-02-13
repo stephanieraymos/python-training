@@ -8,7 +8,7 @@
 * head()
 * tail()
 * describe()
-* plot(kind = 'bar') BAR CHART
+* plot(kind = 'bar', color = 'maroon') BAR CHART
 * sort_values(asending=False)
 * shape 
 
