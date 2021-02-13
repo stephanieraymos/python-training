@@ -10,6 +10,8 @@ Pip has been included with the Python installer since versions 3.4 for Python 3 
 
 #### [OS library](https://www.geeksforgeeks.org/os-module-python-examples/): Provides functions for interacting with the operating system.
 
+Part of standard library; no need to install.
+
 #### [Requests library](https://realpython.com/python-requests/): Used to make web requests.
 
 `pip install requests`
@@ -17,6 +19,8 @@ Pip has been included with the Python installer since versions 3.4 for Python 3 
 #### [Pandas](https://pypi.org/project/pandas/): Offers data structures and operations for manipulating numerical tables.
 
 `pip install pandas`
+
+##### [Pandas methods + attributes](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.html)
 
 - head()
 - tail()
