@@ -8,6 +8,7 @@
 * head()
 * tail()
 * describe()
+* plot(kind = 'bar') BAR CHART
 * shape 
 
 # Visualization libraries: 
