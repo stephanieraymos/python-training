@@ -5,4 +5,4 @@
 # print(phrase + "and it is cool.")
 
 phrase = "This is another phrase"
-print(phrase[1])
+print(phrase.index("e"))
