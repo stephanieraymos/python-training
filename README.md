@@ -46,7 +46,9 @@ Part of standard library; no need to install.
 
 #### TO DO:
 
-- [ ] Learn Pandas more indepth
+- [ ] Learn Pandas more in-depth
 - [ ] Learn more about visualization libraries
 - [ ] Look into quandl to import data
 - [ ] Master .plot()
+- [ ] Learn more about seaborn
+- [ ] Learn more about matplotlib
