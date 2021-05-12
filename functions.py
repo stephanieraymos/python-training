@@ -22,5 +22,6 @@ def validateAndExecute():
         print("Your input is not a valid number, stop trying to trick the system.")
 
 
-userInput = input("Enter a number of days and I will convert it to hours! \n")
-validateAndExecute()
+while True:
+    userInput = input("Enter a number of days and I will convert it to hours! \n")
+    validateAndExecute()
