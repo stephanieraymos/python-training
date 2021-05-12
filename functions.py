@@ -14,7 +14,9 @@ def validateAndExecute():
             calculatedValue = daysToUnits(userInputToNum)
             print(calculatedValue)
         elif userInputToNum == 0:
-            print("You entered 0, please enter a number greater than 0 to continue with conversion")
+            print("You entered 0, please enter a number greater than 0 to continue with conversion.")
+        else:
+            print("You entered a negative number, please enter a valid number.")
 
     except ValueError:
         print("Your input is not a valid number, stop trying to trick the system.")
