@@ -10,7 +10,7 @@ def daysToUnits(days):
 def validateAndExecute():
     try:
         # Changing string to number
-        userInputToNum = int(userInput)
+        userInputToNum = int(numberOfDays)
         # Check for correct positive numbers
         if userInputToNum > 0:
             calculatedValue = daysToUnits(userInputToNum)
@@ -31,4 +31,5 @@ userInput = ""
 # While loop to run program until manually stopped or until "exit" is entered
 while userInput != "exit":
     userInput = input("Enter a number of days and I will convert it to hours! \n")
-    validateAndExecute()
+    for numberOfDays in userInput.split(","):
+        validateAndExecute()
