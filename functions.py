@@ -28,7 +28,7 @@ def validateAndExecute():
 
 
 userInput = ""
-# While loop to run program until manually stopped
+# While loop to run program until manually stopped or until "exit" is entered
 while userInput != "exit":
     userInput = input("Enter a number of days and I will convert it to hours! \n")
     validateAndExecute()
