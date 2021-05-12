@@ -26,7 +26,9 @@ def validateAndExecute():
         # Check for other values; string for example
         print("Your input is not a valid number, stop trying to trick the system.")
 
+
+userInput = ""
 # While loop to run program until manually stopped
-while True:
+while userInput != "exit":
     userInput = input("Enter a number of days and I will convert it to hours! \n")
     validateAndExecute()
