@@ -7,4 +7,5 @@ def daysToUnits(days, customMessage):
     print(customMessage)
 
 
-input("Provide some input")
+input("First input")
+input("Second input")
