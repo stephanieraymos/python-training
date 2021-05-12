@@ -2,8 +2,9 @@ toUnits = 24
 nameOfUnit = "hours"
 
 
-def daysToUnits(days):
+def daysToUnits(days, customMessage):
     print(f"{days} days are {days * toUnits} {nameOfUnit}")
+    print(customMessage)
 
 
-daysToUnits(1)
+input("Provide some input")
