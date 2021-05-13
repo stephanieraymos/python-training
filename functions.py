@@ -31,6 +31,6 @@ userInput = ""
 # While loop to run program until manually stopped or until "exit" is entered
 while userInput != "exit":
     userInput = input("Enter number of days as a comma separated list and I will convert it to hours! \n")
-    print(userInput.split(", "))
-    for numberOfDays in userInput.split(","):
+    print(set(userInput.split(", ")))
+    for numberOfDays in set(userInput.split(",")):
         validateAndExecute()

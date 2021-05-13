@@ -1,2 +1,4 @@
 myList = ["January", "February", "March"]
-print(myList[0])
+print(myList)
+myList.append("April")
+print(myList)
